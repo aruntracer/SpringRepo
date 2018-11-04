@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.prodapt.spring_hello.AppTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.prodapt.spring_hello.AppTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /home/arun1297/git/SpringRepo/spring_hello/target/surefire 2018-11-03T10-19-29_981-jvmRun1 surefire9131833896972286307tmp surefire_08407749126162751803tmp"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /home/arun1297/git/SpringRepo/spring_hello/target/surefire 2018-11-03T14-43-23_197-jvmRun1 surefire4871526992371229294tmp surefire_0124966315484026625tmp"/>
     <property name="surefire.test.class.path" value="/home/arun1297/git/SpringRepo/spring_hello/target/test-classes:/home/arun1297/git/SpringRepo/spring_hello/target/classes:/home/arun1297/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/arun1297/.m2/repository/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar:/home/arun1297/.m2/repository/org/springframework/spring-jcl/5.0.8.RELEASE/spring-jcl-5.0.8.RELEASE.jar:/home/arun1297/.m2/repository/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar:/home/arun1297/.m2/repository/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar:/home/arun1297/.m2/repository/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar:/home/arun1297/.m2/repository/org/springframework/spring-expression/5.0.8.RELEASE/spring-expression-5.0.8.RELEASE.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/arun1297"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testApp" classname="org.prodapt.spring_hello.AppTest" time="0.011"/>
+  <testcase name="testApp" classname="org.prodapt.spring_hello.AppTest" time="0.012"/>
 </testsuite>
